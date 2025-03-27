@@ -1,0 +1,15 @@
+mkdir   --criar pasta
+dir   --lista 
+
+git commit -a -m "msg"         --Realiza um commit sem a necessidade do hit add
+
+git checkout -b nova-branch        --cria e acessa nova-branch 
+
+git clone URL -- clonar 
+
+git remote add origin https://github.com/DaniloRLS/teste.git
+git remote rm origin         --para remover
+
+
+git push -u origin main
+
